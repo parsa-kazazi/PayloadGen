@@ -1,4 +1,4 @@
 # PayloadGen
 Quick and easy payload generator
 
-Requirements: Metasploit Freamwork
+Requirements: Metasploit Framework
